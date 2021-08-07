@@ -1,0 +1,3 @@
+
+echo "ashish"
+read -p "Enter a number"
